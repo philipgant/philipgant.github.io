@@ -5,7 +5,7 @@
 ### Regulatory Ecosystems Group
 
 [Korean Virtual Assets Legislation](https://www.regulationasia.com/koreas-new-crypto-bill-passes-key-legislative-subcommittee/) 
-<img src="images/010608(성한경) 171_대한민국국회의사당 참관기념 메달 충청남도역사문화연구원_color.jpeg?raw=true"/>
+<img src="images/010608(성한경) 171_대한민국국회의사당 참관기념 메달 충청남도역사문화연구원_color.jpeg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
