@@ -22,10 +22,11 @@
 [Taking Refuge in the Law](https://dash.harvard.edu/handle/1/37368169)
 <img src="images/109425_44939.jpeg?raw=true"/>
 
-
 - [Royally Bestowed Certificates in the Harvard-Yenching Library Korean Rare Books Collection](https://korea.fas.harvard.edu/event/royallybestowedcertificates)
-- [Faith in Law in East Asia: Beginnings to 1800](https://courses.yale.edu/?keyword=east%20404&srcdb=202103)
+<img src="images/kt_certs.jpeg?raw=true"/>
 
+[Faith in Law in East Asia: Beginnings to 1800](https://courses.yale.edu/?keyword=east%20404&srcdb=202103)
+<img src="images/HTKD.jpg?raw=true"/>
 
 ---
 
