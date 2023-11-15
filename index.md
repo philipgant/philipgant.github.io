@@ -12,8 +12,8 @@
 <img src="images/Woori Octo.png?raw=true"/>
 
 ---
-[A First Last Call for "Absurd Regulation"](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[A First Last Call for "Absurd Regulation"](https://www.linkedin.com/pulse/first-last-call-absurd-regulation-philip-gant/)
+<img src="images/1681970527650.png?raw=true"/>
 
 ---
 
