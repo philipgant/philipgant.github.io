@@ -8,7 +8,7 @@
 <img src="images/NA Medal.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Digital Asset – Korean Digital Assets Regulatory Framework Explainers – FSC Security Token Q+A Series Tracker](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
