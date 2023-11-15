@@ -8,7 +8,7 @@
 <img src="images/NA Medal.png?raw=true"/>
 
 ---
-[Digital Asset – Korean Digital Assets Regulatory Framework Explainers – FSC Security Token Q+A Series Tracker](/pdf/sample_presentation.pdf)
+[Digital Asset – Korean Digital Assets Regulatory Framework Explainers – FSC Security Token Q+A Series Tracker](/pdf/1677615857146.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
