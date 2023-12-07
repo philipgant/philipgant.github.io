@@ -2,7 +2,7 @@
 
 ---
 
-### Regulatory Ecosystems Group
+### [Regulatory Ecosystems Group](reg.md)
 
 [Korean Virtual Assets Legislation](https://www.regulationasia.com/koreas-new-crypto-bill-passes-key-legislative-subcommittee/) 
 <img src="images/NA Medal.png?raw=true"/>
@@ -20,7 +20,7 @@
 [More](reg.md)
 
 
-### Legal History
+### [Legal History](popchesa.md)
 
 [Taking Refuge in the Law](https://dash.harvard.edu/handle/1/37368169)
 <img src="images/109425_44939.jpeg?raw=true"/>
@@ -31,7 +31,6 @@
 [Faith in Law in East Asia: Beginnings to 1800](https://courses.yale.edu/?keyword=east%20404&srcdb=202103)
 <img src="images/HTKD.jpg?raw=true"/>
 
-[More](popchesa.md)
 
 ---
 
