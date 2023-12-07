@@ -17,7 +17,6 @@
 
 ---
 
-[More](reg.md)
 
 
 ### [Legal History](popchesa.md)
