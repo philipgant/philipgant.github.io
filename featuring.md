@@ -3,4 +3,4 @@
 Here's something which, encountered recently, innovates and surprises.
 
 
-[Archive](/pdf/Featured Archive 20240104.pdf)
+[Archive](/pdf/Featured_Archive_20240104.pdf)
