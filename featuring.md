@@ -2,5 +2,5 @@
 
 Here's something which, encountered recently, innovates and surprises.
 
-[Archive](/pdf/featuredarchive20240104.pdf)
+[Archive](https://philipgant.github.io/pdf/featuredarchive20240104.pdf)
 
