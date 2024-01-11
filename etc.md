@@ -15,5 +15,4 @@ et
 cetera, ...
 <br><br>
 <br><br>
-<br><br>
-e.e. cummings
+-e.e. cummings
