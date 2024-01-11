@@ -17,7 +17,7 @@ inimitable, and, hence, memorable.
 
 ## Teaching
 
-- EAST 404/RLST 359: Faith in Law in East Asia: Beginnings to 1800 (Yale, Fall 2021)
+- EAST 404/RLST 359/HIST 305J: Faith in Law in East Asia: Beginnings to 1800 (Yale, Fall 2021)
 - EAS 99: Senior Tutorial, East Asian Studies (Harvard, AY 2016-17, Prof. Sun Joo Kim)
 - SW 27 (Now GENED 1100): The Two Koreas (Harvard, Spring 2016, Prof. Carter Eckert)
 - AI 63 (Now GENED 1049): East Asian Cinema (Harvard, Spring 2016, Prof. Jie Li)
