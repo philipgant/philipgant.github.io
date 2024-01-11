@@ -2,7 +2,6 @@
 
 ...meanwhile my
 <br><br>
-
 self etcetera lay quietly
 <br><br>
 in the deep mud et
@@ -16,7 +15,6 @@ et
 <br><br>
 cetera, ...
 <br><br>
-
 <br><br>
 <br><br>
 e.e. cummings
