@@ -15,6 +15,7 @@
 <br><br>
 
 [Taking Refuge in the Law](https://dash.harvard.edu/handle/1/37368169)
+<br><br>
 <img src="images/109425_44939.jpeg?raw=true"/>
 <br><br>
 
