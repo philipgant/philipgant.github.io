@@ -1,7 +1,6 @@
 ## Portfolio
 
 ---
-
 ### [Regulatory Ecosystems Group](reg.md)
 ---
 ### [Legal History](popchesa.md)
