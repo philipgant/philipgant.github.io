@@ -17,12 +17,12 @@ inimitable, and, hence, memorable.
 
 ## Teaching
 
-- [EAST 404/RLST 359/HIST 305J](https://perma.cc/RR72-9VP9): <b>Faith in Law in East Asia: Beginnings to 1800</b> (Yale, Fall 2021)
-- [EAS 99](https://perma.cc/G685-UNNB): <b>Senior Tutorial, East Asian Studies</b> (Harvard, AY 2016-17, Prof. Sun Joo Kim)
-- [SW 27 (Now GENED 1100)](https://perma.cc/DW8E-A92Y): <b>The Two Koreas</b> (Harvard, Spring 2016, Prof. Carter Eckert)
-- [AI 63 (Now GENED 1049)](https://perma.cc/JJ55-B2UL): <b>East Asian Cinema</b> (Harvard, Spring 2016, Prof. Jie Li)
-- [CB 33 (Now EASTD 141)](https://perma.cc/H5H5-TTL5): <b>Introduction to the Study of East Asian Religions</b> (Harvard, Fall 2015, Head TF, Prof. James Robson)
-- [ER 18 (Now GENED 1091)](https://perma.cc/HP4C-JL42): <b>Classical Chinese Ethical and Political Theory</b> (Harvard, Fall 2014, Prof. Michael Puett)
+- EAST 404/RLST 359/HIST 305J: <b>Faith in Law in East Asia: Beginnings to 1800</b> (Yale, Fall 2021, [perma](https://perma.cc/RR72-9VP9))
+- EAS 99: <b>Senior Tutorial, East Asian Studies</b> (Harvard, AY 2016-17, Prof. Sun Joo Kim, [perma](https://perma.cc/G685-UNNB))
+- SW 27 (Now GENED 1100): <b>The Two Koreas</b> (Harvard, Spring 2016, Prof. Carter Eckert, [perma](https://perma.cc/DW8E-A92Y))
+- AI 63 (Now GENED 1049): <b>East Asian Cinema</b> (Harvard, Spring 2016, Prof. Jie Li, [perma](https://perma.cc/JJ55-B2UL))
+- CB 33 (Now EASTD 141): <b>Introduction to the Study of East Asian Religions</b> (Harvard, Fall 2015, Head TF, Prof. James Robson, [perma](https://perma.cc/H5H5-TTL5))
+- ER 18 (Now GENED 1091): <b>Classical Chinese Ethical and Political Theory</b> (Harvard, Fall 2014, Prof. Michael Puett, [perma](https://perma.cc/HP4C-JL42))
 
 ---
 
@@ -36,7 +36,7 @@ inimitable, and, hence, memorable.
 - <b>“‘Fail? Over my Dead Body’: Land Use, Property Rights, and a Buddhist World Borne out by the Land Itself,”</b> 3rd New Frontiers in Premodern Korean Studies Workshop, Harvard Univ. (May 9, 2019), <https://perma.cc/J4MP-J7JJ>
 - <b>“Temple Litigation and Korea’s Long Nineteenth Century,”</b> Dumbarton Oaks Research Report Series, Dumbarton Oaks (April 24, 2019), <https://perma.cc/A3NY-MZFG>
 - <b>“Making Sense of Administering Monastics in Nineteenth Century Korea,”</b> 10th Kyujanggak International Symposium for Korean Studies, Seoul National University (November 25, 2017), <https://perma.cc/P8TJ-GBLZ>
-- <b>“Understanding Monastic Administration in Nineteenth Century Chosŏn: Problems, Sources, Prospects,”</b> 143rd Academy of Korean Studies Colloquium, Academy of Korean Studies (August 14, 2017)
+- <b>“Understanding Monastic Administration in Nineteenth Century Chosŏn: Problems, Sources, Prospects,”</b> 143rd Academy of Korean Studies Colloquium, Academy of Korean Studies (August 14, 2017), <https://perma.cc/LE9L-J2HX>
 - <b>“Making Sense of Administering Monastics in Late Chosŏn Korea,”</b> 13th Worldwide Consortium of Korean Studies Centers Workshop, UCLA (June 10, 2017), <https://perma.cc/E2BL-HNVQ>
 - <b>“Chosŏn Buddhism,”</b> Guest Lecture for Korean History 111: Traditional Korea (Prof. Sun Joo Kim), Harvard College (April 13, 2017)
 - <b>“There is No Mention of Any Buddha-Stealing Robber Monks,”</b> Harvard Department of EALC Prospectus Conference (May 9, 2016)
