@@ -17,10 +17,10 @@ inimitable, and, hence, memorable.
 
 ## Teaching
 
-- [EAST 404/RLST 359/HIST 305J](https://perma.cc/RR72-9VP9): Faith in Law in East Asia: Beginnings to 1800 (Yale, Fall 2021)
-- [EAS 99: Senior Tutorial](https://perma.cc/G685-UNNB), East Asian Studies (Harvard, AY 2016-17, Prof. Sun Joo Kim)
+- <b>[EAST 404/RLST 359/HIST 305J: Faith in Law in East Asia: Beginnings to 1800](https://perma.cc/RR72-9VP9)</b> (Yale, Fall 2021)
+- [EAS 99](https://perma.cc/G685-UNNB): Senior Tutorial, East Asian Studies (Harvard, AY 2016-17, Prof. Sun Joo Kim)
 - [SW 27 (Now GENED 1100)](https://perma.cc/DW8E-A92Y): The Two Koreas (Harvard, Spring 2016, Prof. Carter Eckert)
-- [AI 63 (Now GENED 1049): East Asian Cinema](https://perma.cc/JJ55-B2UL) (Harvard, Spring 2016, Prof. Jie Li)
+- [AI 63 (Now GENED 1049)](https://perma.cc/JJ55-B2UL): East Asian Cinema (Harvard, Spring 2016, Prof. Jie Li)
 - [CB 33 (Now EASTD 141)](https://perma.cc/H5H5-TTL5): Introduction to the Study of East Asian Religions (Harvard, Fall 2015, Head TF, Prof. James Robson)
 - [ER 18 (Now GENED 1091)](https://perma.cc/HP4C-JL42): Classical Chinese Ethical and Political Theory (Harvard, Fall 2014, Prof. Michael Puett)
 
@@ -35,7 +35,7 @@ inimitable, and, hence, memorable.
 - “Institutional Work as a Tyler Fellow and Beyond,” Dumbarton Oaks Scholarly Heads’ Meeting, Dumbarton Oaks (May 20, 2019)
 - “‘Fail? Over my Dead Body’: Land Use, Property Rights, and a Buddhist World Borne out by the Land Itself,” 3rd New Frontiers in Premodern Korean Studies Workshop, Harvard Univ. (May 9, 2019), <https://perma.cc/J4MP-J7JJ>
 - “Temple Litigation and Korea’s Long Nineteenth Century,” Dumbarton Oaks Research Report Series, Dumbarton Oaks (April 24, 2019), <https://perma.cc/A3NY-MZFG>
-- “Making Sense of Administering Monastics in Nineteenth Century Korea,” 10th Kyujanggak International Symposium for Korean Studies, Seoul National University (November 25, 2017)
+- “Making Sense of Administering Monastics in Nineteenth Century Korea,” 10th Kyujanggak International Symposium for Korean Studies, Seoul National University (November 25, 2017), <https://perma.cc/P8TJ-GBLZ>
 - “Understanding Monastic Administration in Nineteenth Century Chosŏn: Problems, Sources, Prospects,” 143rd Academy of Korean Studies Colloquium, Academy of Korean Studies (August 14, 2017)
 - “Making Sense of Administering Monastics in Late Chosŏn Korea,” 13th Worldwide Consortium of Korean Studies Centers Workshop, UCLA (June 10, 2017)
 - “Chosŏn Buddhism,” Guest Lecture for Korean History 111: Traditional Korea (Prof. Sun Joo Kim), Harvard College (April 13, 2017)
