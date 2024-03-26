@@ -28,7 +28,7 @@ inimitable, and, hence, memorable.
 
 ## Presentations
 
-- <b>"Fieldwork Notes from Korea and ASEAN," GBBC US Policy Working Group (March 25, 2024)
+- <b>"Fieldwork Notes from Korea and ASEAN,"</b> GBBC US Policy Working Group (March 25, 2024)
 - Panelist, <b>“DeFi and Crypto-assets in ASEAN and Beyond,”</b> OECD-FSC-KIF Roundtable on Digital Finance in ASEAN (March 18-19, 2024), [perma](https://perma.cc/G47M-P79Q)
 - <b>"Korea Policy Briefing,"</b>GBBC Post Trade Distributed Ledger Group (March 6, 2024), [PTDL](https://www.gbbc.io/initiatives/ptdl)
 - <b>“Royally Bestowed Certificates in the Harvard-Yenching Library Korean Rare Books Collection,”</b> Korean Treasures at Harvard, Harvard University Korea Institute (April 7, 2022), [perma](https://perma.cc/5TWE-GGUP)
