@@ -28,10 +28,9 @@ inimitable, and, hence, memorable.
 
 ## Presentations
 
-- <b>Korea Policy Briefing,</b>
-  <p>GBBC US Policy Working Group (March 25, 2024)
-  <p>GBBC Post Trade Distributed Ledger Group (March 6, 2024), [PTDL](https://www.gbbc.io/initiatives/ptdl)</p>
+- <b>"Fieldwork Notes from Korea and ASEAN," GBBC US Policy Working Group (March 25, 2024)
 - Panelist, <b>“DeFi and Crypto-assets in ASEAN and Beyond,”</b> OECD-FSC-KIF Roundtable on Digital Finance in ASEAN (March 18-19, 2024), [perma](https://perma.cc/G47M-P79Q)
+- <b>"Korea Policy Briefing,"</b>GBBC Post Trade Distributed Ledger Group (March 6, 2024), [PTDL](https://www.gbbc.io/initiatives/ptdl)
 - <b>“Royally Bestowed Certificates in the Harvard-Yenching Library Korean Rare Books Collection,”</b> Korean Treasures at Harvard, Harvard University Korea Institute (April 7, 2022), [perma](https://perma.cc/5TWE-GGUP)
 - <b>“Visualizing Korea’s Monastic Litigation Networks, 1400-present,”</b> GeoCON 2021, Harvard Center for Geographical Analysis (January 15, 2021)
 - <b>“Korean Buddhism’s Elusive History,”</b> Guest Lecture for History 78.04 (Prof. Soyoung Suh), Dartmouth College (November 4, 2020)
