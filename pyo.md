@@ -30,15 +30,13 @@ inimitable, and, hence, memorable.
 
 <ul><!-- start of  main list-->
 <li><b>"What We Mean When We Talk about Regulation,"</b> Intl. Assn. on Regulation & Governance Inaugural Conference, UPENN Carey Law School (June 17-18, 2024; <b>forthcoming</b>), [IARG 2024](https://pennreg.org/iarg-2024/)</li>
-<ul><!-- start of nested list 1-->
-  <li><b>GBBC APAC Policy Work Updates</b>
-            <ul><!-- start of nested list 2-->
+<li><b>GBBC APAC Policy Work Updates</b>
+            <ul><!-- start of nested list 1-->
                 <li>GBBC US Policy Working Group (April 25, 2024)</li>
                 <li><b>"Korea and APAC Policy Work Q1 2024,"</b> GBBC Members Town Halls (EMEA+East Coast, APAC+West Coast) (March 26, 2024)</li>
                 <li><b>"Fieldwork Notes from Korea and ASEAN,"</b> GBBC US Policy Working Group (March 25, 2024)</li>
-            </ul><!--end of nested list 2-->
+            </ul><!--end of nested list 1-->
      </li>
- </ul><!--end of nested list 1-->
 <li>Panelist, <b>“DeFi and Crypto-assets in ASEAN and Beyond,”</b> OECD-FSC-KIF Roundtable on Digital Finance in ASEAN (March 18-19, 2024), [perma 1](https://perma.cc/G47M-P79Q), [perma 2](https://perma.cc/99TZ-8AH4)</li>
 <li><b>"Korea Policy Briefing,"</b> GBBC Post Trade Distributed Ledger Group (March 6, 2024), [PTDL](https://www.gbbc.io/initiatives/ptdl)</li>
 <li><b>“Royally Bestowed Certificates in the Harvard-Yenching Library Korean Rare Books Collection,”</b> Korean Treasures at Harvard, Harvard University Korea Institute (April 7, 2022), [perma](https://perma.cc/5TWE-GGUP)</li>
