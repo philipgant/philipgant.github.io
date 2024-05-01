@@ -30,7 +30,7 @@ inimitable, and, hence, memorable.
 
 <ul><!-- start of  main list-->
 <li><b>"What We Mean When We Talk about Regulation,"</b> Intl. Assn. on Regulation & Governance Inaugural Conference, UPENN Carey Law School (June 17-18, 2024; <b>forthcoming</b>), [IARG 2024](https://pennreg.org/iarg-2024/)</li>
-- <ul><!-- start of nested list 1-->
+<ul><!-- start of nested list 1-->
   <li><b>GBBC APAC Policy Work Updates</b>
             <ul><!-- start of nested list 2-->
                 <li>GBBC US Policy Working Group (April 25, 2024)</li>
