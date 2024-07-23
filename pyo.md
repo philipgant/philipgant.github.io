@@ -28,7 +28,7 @@ inimitable, and, hence, memorable.
 
 ## Presentations
 
-- <b>"What We Mean When We Talk about Regulation,"</b> Intl. Assn. on Regulation & Governance Inaugural Conference, UPenn Carey Law School (June 17-18, 2024; <b>forthcoming</b>), [IARG 2024](https://pennreg.org/iarg-2024/)
+- <b>"What We Mean When We Talk about Regulation,"</b> Intl. Assn. on Regulation & Governance Inaugural Conference, UPenn Carey Law School (June 17, 2024), [IARG 2024](https://perma.cc/L9YP-PH9G)
 - <b>GBBC APAC Policy Work Updates</b>
     - GBBC US Policy Working Group (April 25, 2024; May 23, 2024)
     - <b>"Korea and APAC Policy Work Q1 2024,"</b> GBBC Members Town Halls (EMEA+East Coast, APAC+West Coast) (March 26, 2024)
