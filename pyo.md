@@ -24,16 +24,24 @@ inimitable, and, hence, memorable.
 - CB 33 (Now EASTD 141): <b>Introduction to the Study of East Asian Religions</b> (Harvard, Fall 2015, Head TF, Prof. James Robson, [perma](https://perma.cc/H5H5-TTL5))
 - ER 18 (Now GENED 1091): <b>Classical Chinese Ethical and Political Theory</b> (Harvard, Fall 2014, Prof. Michael Puett, [perma](https://perma.cc/HP4C-JL42))
 
+
 ---
 
-## Presentations
+## Convening
 
-- Panelist, <b>Chainalysis Policy Pulse: Asia Pacific</b> (July 31, 2024), [perma](https://perma.cc/4PMB-RFQM)
-- Presenter, <b>"What We Mean When We Talk about Regulation,"</b> Intl. Assn. on Regulation & Governance Inaugural Conference, UPenn Carey Law School (June 17, 2024), [perma](https://perma.cc/L9YP-PH9G)
+- Secretariat, <b>Growth Markets Regulatory Council</b> (September 2024-present)
+- Co-chair, <b>GBBC APAC Monthly Meeting</b> (June 2024-present)
+
+---
+
+## Presenting
+
 - <b>GBBC APAC Policy Work Updates</b>
-    - GBBC US Policy Working Group (August 22, 2024 - forthcoming; May 23, 2024; April 25, 2024)
+    - GBBC US Policy Working Group (September 18, 2024 -- forthcoming; August 22, 2024; May 23, 2024; April 25, 2024)
     - <b>"Korea and APAC Policy Work Q1 2024,"</b> GBBC Members Town Halls (EMEA+East Coast, APAC+West Coast) (March 26, 2024)
     - <b>"Fieldwork Notes from Korea and ASEAN,"</b> GBBC US Policy Working Group (March 25, 2024)
+- Panelist, <b>Chainalysis Policy Pulse: Asia Pacific</b> (July 31, 2024), [perma](https://perma.cc/4PMB-RFQM)
+- Presenter, <b>"What We Mean When We Talk about Regulation,"</b> Intl. Assn. on Regulation & Governance Inaugural Conference, UPenn Carey Law School (June 17, 2024), [perma](https://perma.cc/L9YP-PH9G)
 - Panelist, <b>“DeFi and Crypto-assets in ASEAN and Beyond,”</b> OECD-FSC-KIF Roundtable on Digital Finance in ASEAN (March 18-19, 2024), [perma 1](https://perma.cc/G47M-P79Q), [perma 2](https://perma.cc/99TZ-8AH4)
 - <b>"Korea Policy Briefing,"</b> GBBC Post Trade Distributed Ledger Group (March 6, 2024), [PTDL](https://www.gbbc.io/initiatives/ptdl)
 - <b>“Royally Bestowed Certificates in the Harvard-Yenching Library Korean Rare Books Collection,”</b> Korean Treasures at Harvard, Harvard University Korea Institute (April 7, 2022), [perma](https://perma.cc/5TWE-GGUP)
