@@ -16,3 +16,7 @@ cetera, ...
 <br><br>
 <br><br>
 -e.e. cummings
+
+
+Tryna make sense of loose change. / Got me a war in my mind 
+- SZA, "Good Days"
