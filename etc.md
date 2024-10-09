@@ -14,7 +14,7 @@ et
 
 cetera, ...
 <br><br>
-<br><br>
+
 -e.e. cummings
 
 <br><br>
@@ -24,5 +24,5 @@ cetera, ...
 
 Tryna make sense of loose change. / Got me a war in my mind 
 <br><br>
-<br><br>
+
 -SZA, "Good Days"
