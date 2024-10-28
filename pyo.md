@@ -41,7 +41,7 @@ inimitable, and, hence, memorable.
 ## Presenting
 
 - <b>GBBC APAC Policy Work Updates</b>
-    - GBBC US Policy Working Group (October 2024 -- forthcoming; August 22, 2024; May 23, 2024; April 25, 2024)
+    - GBBC US Policy Working Group (October 16, 2024; August 22, 2024; May 23, 2024; April 25, 2024)
     - <b>"Korea and APAC Policy Work Q1 2024,"</b> GBBC Members Town Halls (EMEA+East Coast, APAC+West Coast) (March 26, 2024)
     - <b>"Fieldwork Notes from Korea and ASEAN,"</b> GBBC US Policy Working Group (March 25, 2024)
 - Panelist, <b>Chainalysis Policy Pulse: Asia Pacific</b> (July 31, 2024), [perma](https://perma.cc/4PMB-RFQM)
