@@ -34,6 +34,7 @@ inimitable, and, hence, memorable.
     - Co-chair, <b>GBBC APAC Monthly Meeting</b> (June 2024-present), [perma](https://perma.cc/M5CE-4UYN)
 
 - Occasionally:
+    - <b>"Not all Blockchains are the Same,"</b>Eps. [4-Oct. 2024](https://www.linkedin.com/posts/global-blockchain-business-council_algorand-activity-7254884608318562307-953Y) and [5-Dec. 2024](https://www.linkedin.com/posts/global-blockchain-business-council_mark-your-calendars-for-next-tuesday-activity-7267206224289447937-bmWQ)
     - Moderator, <b>"Fireside Chat: The Future of Equitable Gender Outcomes and Women-Centric Solutions,"</b> feat. <b>Nigina Muntean</b> (Chief, Innovation Unit, UNPFA) and <b>Michelle O'Connor</b> (VP, Global Brand and Market Expansion, TaxBit), 7th Annual GBBC Blockchain Central UNGA (September 23, 2024), [GBBC-UNGA](https://assets.ctfassets.net/so75yocayyva/2l2TZOUxN4a5pHCPBBe215/c826251557ee49af1ed1f86da4824377/UNGA_2024_Agenda_-_As_of_September_23.pdf)
 
 ---
