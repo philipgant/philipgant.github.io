@@ -16,7 +16,7 @@
 <br><br>
 [Make Haste Slowly](https://perma.cc/4ZMC-75UQ)
 <br><br>
-
+<img src="images/Jars Banner_Blue.png?raw=true"/>
 
 ---
 <br><br>
