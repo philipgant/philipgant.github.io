@@ -26,7 +26,7 @@
 
 ---
 <br><br>
-[Royally Bestowed Certificates in the Harvard-Yenching Library Korean Rare Books Collection](https://korea.fas.harvard.edu/event/royallybestowedcertificates)
+[Royally Bestowed Certificates in the Harvard-Yenching Library Korean Rare Books Collection](https://korea.fas.harvard.edu/event/royallybestowedcertificates)[vimeo](https://vimeo.com/channels/koreantreasures)
 <img src="images/kt_certs.jpeg?raw=true"/>
 
 ---
