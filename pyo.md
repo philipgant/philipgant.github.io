@@ -1,19 +1,19 @@
 <p align="right">
 The soul too
-
+<p align="right">
 is a debasement
-
+<p align="right">
 of a text, but, thus, it
-
+<p align="right">
 acquires salience, although a
-
+<p align="right">
 human salience, but
-
+<p align="right">
 inimitable, and, hence, memorable.
-
+<p align="right">
 <br><br>
 -Li-Young Lee, "The Cleaving"
-</p align="right">
+
 ---
 
 ## Teaching
