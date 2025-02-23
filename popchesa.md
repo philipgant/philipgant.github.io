@@ -14,6 +14,12 @@
 
 ---
 <br><br>
+[Make Haste Slowly](https://perma.cc/4ZMC-75UQ)
+<br><br>
+
+
+---
+<br><br>
 [Taking Refuge in the Law](https://dash.harvard.edu/handle/1/37368169)
 <br><br>
 <img src="images/109425_44939.jpeg?raw=true"/>
