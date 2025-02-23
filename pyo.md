@@ -1,3 +1,4 @@
+<p align="right">
 The soul too
 
 is a debasement
@@ -12,7 +13,7 @@ inimitable, and, hence, memorable.
 
 <br><br>
 -Li-Young Lee, "The Cleaving"
-
+</p align="right">
 ---
 
 ## Teaching
