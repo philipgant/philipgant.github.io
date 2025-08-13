@@ -2,6 +2,6 @@
 
 Here's something which, encountered recently, innovates and surprises.
 
-<img src="images/alwaysarose.jpg?raw=true"/>
+<img src="images/otohavesuchfleetfeathers.jpg?raw=true"/>
 
-[Archive](/pdf/featarch20250623.pdf)
+[Archive](/pdf/featarch20250813.pdf)
