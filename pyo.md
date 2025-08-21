@@ -34,7 +34,7 @@ inimitable, and, hence, memorable.
     - Co-chair, <b>GBBC APAC Monthly Meeting</b> (June 2024-present), [perma](https://perma.cc/M5CE-4UYN)
 
 - Occasionally:
-    - <b>Post-Trade Distributed Ledger (PTDL),</b> August 2025-forthcoming; July 2025; June 2025; April 2025; August 2024 (APAC Edition), [GBBC-PTDL](https://www.gbbc.io/initiatives/ptdl), [perma-2024](https://perma.cc/39RR-7K5S)
+    - <b>Post-Trade Distributed Ledger (PTDL),</b> August 2025 (APAC Edition); July 2025; June 2025; April 2025; August 2024 (APAC Edition), [GBBC-PTDL](https://www.gbbc.io/initiatives/ptdl), [perma-2024](https://perma.cc/39RR-7K5S)
     - <b>GBBC Virtual Members Forum,</b> Ep. 71 (Apr. 25, 2025; [perma](https://perma.cc/EJN7-98VG), [youtube](https://youtu.be/CQkFOec93WY))
     - <b>Not all Blockchains are the Same,</b> Eps. 5 (Dec. 2024; [perma](https://perma.cc/7KZL-DVK3), [youtube](https://www.youtube.com/watch?v=1X0sLYqYn2o)) and 4 (Oct. 2024; [perma](https://perma.cc/D6J5-RFL5), [youtube](https://www.youtube.com/watch?v=X-MCNQSR3rk))
     - Moderator, <b>"Fireside Chat: The Future of Equitable Gender Outcomes and Women-Centric Solutions,"</b> feat. <b>Nigina Muntean</b> (Chief, Innovation Unit, UNPFA) and <b>Michelle O'Connor</b> (VP, Global Brand and Market Expansion, Taxbit), 7th Annual GBBC Blockchain Central UNGA (September 23, 2024), [GBBC-UNGA](https://assets.ctfassets.net/so75yocayyva/2l2TZOUxN4a5pHCPBBe215/c826251557ee49af1ed1f86da4824377/UNGA_2024_Agenda_-_As_of_September_23.pdf)
@@ -44,7 +44,7 @@ inimitable, and, hence, memorable.
 ## Presenting
 
 - <b>GBBC APAC Policy Work Updates</b>
-    - GBBC US Policy Working Group (June 27, 2025; May 29, 2025; April 24, 2025; February 19, 2025; December 11, 2024; October 16, 2024; August 22, 2024; May 23, 2024; April 25, 2024)
+    - GBBC US Policy Working Group (August 20, 2025; June 27, 2025; May 29, 2025; April 24, 2025; February 19, 2025; December 11, 2024; October 16, 2024; August 22, 2024; May 23, 2024; April 25, 2024)
     - <b>"Korea and APAC Policy Work Q1 2024,"</b> GBBC Members Town Halls (EMEA+East Coast, APAC+West Coast) (March 26, 2024)
     - <b>"Fieldwork Notes from Korea and ASEAN,"</b> GBBC US Policy Working Group (March 25, 2024)
 - Presenter + Panelist, <b>"GBBC Global Policy Initiatives,"</b> Blockchain: Opening the Future Conference, SNU Center for ESG and Social Innovation (January 17, 2025), [perma](https://perma.cc/5NSH-4UNJ)
