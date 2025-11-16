@@ -34,7 +34,7 @@ inimitable, and, hence, memorable.
     - Co-chair, <b>GBBC APAC Monthly Meeting</b> (June 2024-present), [perma](https://perma.cc/M5CE-4UYN)
 
 - Occasionally:
-    - <b>Post-Trade Distributed Ledger (PTDL),</b> August 2025 (APAC Edition); July 2025; June 2025; April 2025; August 2024 (APAC Edition), [GBBC-PTDL](https://www.gbbc.io/initiatives/ptdl), [perma-2024](https://perma.cc/39RR-7K5S)
+    - <b>Post-Trade Distributed Ledger (PTDL),</b> October 2025; August 2025 (APAC Edition); July 2025; June 2025; April 2025; August 2024 (APAC Edition), [GBBC-PTDL](https://www.gbbc.io/initiatives/ptdl), [perma-2024](https://perma.cc/39RR-7K5S)
     - <b>GBBC Virtual Members Forum,</b> Ep. 71 (Apr. 25, 2025; [perma](https://perma.cc/EJN7-98VG), [youtube](https://youtu.be/CQkFOec93WY))
     - <b>Not all Blockchains are the Same,</b> Eps. 5 (Dec. 2024; [perma](https://perma.cc/7KZL-DVK3), [youtube](https://www.youtube.com/watch?v=1X0sLYqYn2o)) and 4 (Oct. 2024; [perma](https://perma.cc/D6J5-RFL5), [youtube](https://www.youtube.com/watch?v=X-MCNQSR3rk))
     - Moderator, <b>"Fireside Chat: The Future of Equitable Gender Outcomes and Women-Centric Solutions,"</b> feat. <b>Nigina Muntean</b> (Chief, Innovation Unit, UNPFA) and <b>Michelle O'Connor</b> (VP, Global Brand and Market Expansion, Taxbit), 7th Annual GBBC Blockchain Central UNGA (September 23, 2024), [GBBC-UNGA](https://assets.ctfassets.net/so75yocayyva/2l2TZOUxN4a5pHCPBBe215/c826251557ee49af1ed1f86da4824377/UNGA_2024_Agenda_-_As_of_September_23.pdf)
