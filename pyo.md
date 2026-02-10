@@ -43,7 +43,7 @@ inimitable, and, hence, memorable.
 
 ## Presenting
 
-- Presenter + Panelist, <b>"Insights from GBBC's Global Standards Mapping Inititative 6.0 and Capital Markets Risk Mitigation Framework,"</b> DeFi and Traditional Finance: Collaboration and Expansion Strategies - A Vision for the Hybrid Finance Era, HASHED OPEN RESEARCH x KODA x HASHED (December 16, 2025), [perma 1](https://perma.cc/AN7Y-5XQL), [perma 2](https://perma.cc/UKK9-F74K), [perma 3 (Report-ENG)](https://perma.cc/MD3Y-39K2), [perma 4 (Report-KOR)](https://perma.cc/F267-T9A9)
+- Presenter + Panelist, <b>"Insights from GBBC's Global Standards Mapping Inititative 6.0 and Capital Markets Risk Mitigation Framework,"</b> DeFi and Traditional Finance: Collaboration and Expansion Strategies - A Vision for the Hybrid Finance Era, HASHED OPEN RESEARCH x KODA x HASHED (December 16, 2025), [perma 1](https://perma.cc/AN7Y-5XQL), [perma 2](https://perma.cc/UKK9-F74K), [perma 3 (Report-KOR)](https://perma.cc/F267-T9A9), [perma 4 (Report-ENG)](https://perma.cc/MD3Y-39K2), 
 - <b>GBBC APAC Policy Work Updates</b>
     - GBBC US Policy Working Group (September 26, 2025; August 20, 2025; June 27, 2025; May 29, 2025; April 24, 2025; February 19, 2025; December 11, 2024; October 16, 2024; August 22, 2024; May 23, 2024; April 25, 2024)
     - <b>"Korea and APAC Policy Work Q1 2024,"</b> GBBC Members Town Halls (EMEA+East Coast, APAC+West Coast) (March 26, 2024)
