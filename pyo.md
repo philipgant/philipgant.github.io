@@ -34,16 +34,16 @@ inimitable, and, hence, memorable.
     - Co-chair, <b>GBBC APAC Monthly Meeting</b> (June 2024-present), [perma](https://perma.cc/M5CE-4UYN)
 
 - Occasionally:
-    - <b>Post-Trade Distributed Ledger (PTDL),</b> October 2025; August 2025 (APAC Edition); July 2025; June 2025; April 2025; August 2024 (APAC Edition), [GBBC-PTDL](https://www.gbbc.io/initiatives/ptdl), [perma-2024](https://perma.cc/39RR-7K5S)
+    - <b>Post-Trade Distributed Ledger (PTDL),</b> October 2025; August 2025 (APAC Edition); July 2025; June 2025; April 2025; August 2024 (APAC Edition), [GBBC-PTDL](https://perma.cc/8X4H-NH4S), [perma-2025](https://perma.cc/LR8P-W82C), [perma-2024](https://perma.cc/39RR-7K5S)
     - <b>GBBC Virtual Members Forum,</b> Ep. 71 (Apr. 25, 2025; [perma](https://perma.cc/EJN7-98VG), [youtube](https://youtu.be/CQkFOec93WY))
     - <b>Not all Blockchains are the Same,</b> Eps. 5 (Dec. 2024; [perma](https://perma.cc/7KZL-DVK3), [youtube](https://www.youtube.com/watch?v=1X0sLYqYn2o)) and 4 (Oct. 2024; [perma](https://perma.cc/D6J5-RFL5), [youtube](https://www.youtube.com/watch?v=X-MCNQSR3rk))
-    - Moderator, <b>"Fireside Chat: The Future of Equitable Gender Outcomes and Women-Centric Solutions,"</b> feat. <b>Nigina Muntean</b> (Chief, Innovation Unit, UNPFA) and <b>Michelle O'Connor</b> (VP, Global Brand and Market Expansion, Taxbit), 7th Annual GBBC Blockchain Central UNGA (September 23, 2024), [GBBC-UNGA](https://assets.ctfassets.net/so75yocayyva/2l2TZOUxN4a5pHCPBBe215/c826251557ee49af1ed1f86da4824377/UNGA_2024_Agenda_-_As_of_September_23.pdf)
+    - Moderator, <b>"Fireside Chat: The Future of Equitable Gender Outcomes and Women-Centric Solutions,"</b> feat. <b>Nigina Muntean</b> (Chief, Innovation Unit, UNPFA) and <b>Michelle O'Connor</b> (VP, Global Brand and Market Expansion, Taxbit), 7th Annual GBBC Blockchain Central UNGA (September 23, 2024), [perma](https://perma.cc/64WL-2ZJU)
 
 ---
 
 ## Presenting
 
-- Presenter + Panelist, <b>"Insights from GBBC's Global Standards Mapping Inititative 6.0 and Capital Markets Risk Mitigation Framework,"</b> DeFi and Traditional Finance: Collaboration and Expansion Strategies - A Vision for the Hybrid Finance Era, HASHED OPEN RESEARCH x KODA x HASHED (December 16, 2025), [perma](https://perma.cc/AN7Y-5XQL)
+- Presenter + Panelist, <b>"Insights from GBBC's Global Standards Mapping Inititative 6.0 and Capital Markets Risk Mitigation Framework,"</b> DeFi and Traditional Finance: Collaboration and Expansion Strategies - A Vision for the Hybrid Finance Era, HASHED OPEN RESEARCH x KODA x HASHED (December 16, 2025), [perma 1](https://perma.cc/AN7Y-5XQL), [perma 2](https://perma.cc/UKK9-F74K), [perma 3 (Report-ENG)](https://perma.cc/MD3Y-39K2), [perma 4 (Report-KOR)](https://perma.cc/F267-T9A9)
 - <b>GBBC APAC Policy Work Updates</b>
     - GBBC US Policy Working Group (September 26, 2025; August 20, 2025; June 27, 2025; May 29, 2025; April 24, 2025; February 19, 2025; December 11, 2024; October 16, 2024; August 22, 2024; May 23, 2024; April 25, 2024)
     - <b>"Korea and APAC Policy Work Q1 2024,"</b> GBBC Members Town Halls (EMEA+East Coast, APAC+West Coast) (March 26, 2024)
