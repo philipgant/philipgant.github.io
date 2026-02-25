@@ -32,6 +32,7 @@ inimitable, and, hence, memorable.
 - Regularly:
     - Secretariat, <b>Growth Markets Regulatory Council</b> (September 2024-February 2026), [perma-1](https://perma.cc/RRT6-69EX), [perma-2](https://perma.cc/AKE6-WZN4)
     - Co-chair, <b>GBBC APAC Monthly Meeting</b> (June 2024-February 2026), [perma](https://perma.cc/M5CE-4UYN)
+    - Convener, <b>Weekly Research Workshop - Humanities, Visiting Fellows Program, Harvard-Yenching Institute</b> (AY 2016-17), [perma](https://perma.cc/X587-FBDQ), [perma-2](https://perma.cc/JLG3-XRUT)
 
 - Occasionally:
     - <b>Post-Trade Distributed Ledger (PTDL),</b> October 2025; August 2025 (APAC Edition); July 2025; June 2025; April 2025; August 2024 (APAC Edition), [GBBC-PTDL](https://perma.cc/8X4H-NH4S), [perma-2025](https://perma.cc/LR8P-W82C), [perma-2024](https://perma.cc/39RR-7K5S)
