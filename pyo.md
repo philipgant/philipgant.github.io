@@ -40,7 +40,7 @@ inimitable, and, hence, memorable.
     - <b>Not all Blockchains are the Same,</b> Eps. 5 (Dec. 2024; [perma](https://perma.cc/7KZL-DVK3), [youtube](https://www.youtube.com/watch?v=1X0sLYqYn2o)) and 4 (Oct. 2024; [perma](https://perma.cc/D6J5-RFL5), [youtube](https://www.youtube.com/watch?v=X-MCNQSR3rk))
     - Moderator, <b>"Fireside Chat: The Future of Equitable Gender Outcomes and Women-Centric Solutions,"</b> feat. <b>Nigina Muntean</b> (Chief, Innovation Unit, UNPFA) and <b>Michelle O'Connor</b> (VP, Global Brand and Market Expansion, Taxbit), 7th Annual GBBC Blockchain Central UNGA (September 23, 2024), [perma](https://perma.cc/64WL-2ZJU)
  
-  - Empanelled: 
+- Empanelled:
       - Expert Panelist, Crypto Threat Intel Seminar: Student Final Presentations (NPTI8631A-S26, Profs. Wylie Peremarti and Makaeyla Zamora), Middlebury Institute of International Studies (May 13, 2026), [perma](https://perma.cc/7TWD-LZSE)
     - Discussant, <b>Mengheng Li (Columbia University): "Suppressing Domestic Heresy and Factionalized Legality: The Chinsan Incident of 1791,"</b> 5th New Frontiers in Premodern Korean Studies Workshop, Harvard University (June 3, 2022), [perma](https://perma.cc/4LAP-M89J)
 
