@@ -1,0 +1,17 @@
+html
+---
+layout: default
+---
+
+<article>
+  <h2>{{ page.title }}</h2>
+
+  {{ content }}
+
+  <hr>
+  <p style="font-size: 0.9em;">
+    <a href="{{ '/featuring/' | relative_url }}">← Current feature</a>
+    &nbsp;·&nbsp;
+    <a href="{{ '/featuring/archive/' | relative_url }}">Archive</a>
+  </p>
+</article>
