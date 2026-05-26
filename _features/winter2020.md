@@ -5,5 +5,5 @@ thumbnail: /images/featuring/Winter 2020.jpg
 
 <figure class="feature-single">
   <img src="/images/featuring/Winter 2020.jpg" alt="Side by side images of Sim Sa-jŏng's Samil-p'o of circa 1751-1769, and Yale Club of New York City's Give the Gift of Membership campaign ad of Winter 2020, with caption reading In the collected works of the Chosŏn monk Hŏjŏng (1670-1733), the poem Echoing an Ancient Rhyme is followed immediately by the poem Snow. It's an arrangement I, this winter, appreciate anew">
-  <figcaption>L: Sim Sa-jŏng's "Samil-p'o," c. 1751-1769; <br><br>R: Yale Club of New York City's "Give the Gift of Membership" campaign ad, Winter 2020. <br><br>In the collected works of the Chosŏn monk Hŏjŏng (1670-1733), the poem "Echoing an Ancient Rhyme" is followed immediately by "Snow." It's an arrangement I, this winter, appreciate anew. Winter 2020.</figcaption>
+  <figcaption>L: Sim Sa-jŏng's "Samil-p'o," c. 1751-1769; <br><br>R: Yale Club of New York City's "Give the Gift of Membership" campaign ad, Winter 2020. <br><br>In the collected works of the Chosŏn monk Hŏjŏng (1670-1733), the poem "Echoing an Ancient Rhyme" is followed immediately by "Snow." It's an arrangement I, this winter, appreciate anew. <br><br>Winter 2020.</figcaption>
 </figure>
