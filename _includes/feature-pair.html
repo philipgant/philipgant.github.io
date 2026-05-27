@@ -8,3 +8,6 @@
     {% if include.cap2 %}<figcaption>{{ include.cap2 }}</figcaption>{% endif %}
   </figure>
 </div>
+{% if include.caption %}
+<p class="feature-caption">{{ include.caption }}</p>
+{% endif %}
