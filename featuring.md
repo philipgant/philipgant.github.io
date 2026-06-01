@@ -1,7 +1,21 @@
+layout: default
+title: Featuring
+permalink: /featuring/
+---
+
 ## Featuring
 
 Here's something which, encountered recently, innovates and surprises.
 
-<img src="images/otohavesuchfleetfeathers.jpg?raw=true"/>
+{% assign current = site.features | sort: 'date' | reverse | first %}
 
-[Archive](/pdf/featarch20250813.pdf)
+{% if current %}
+
+{{ current.content }}
+
+---
+
+[Browse the archive →]({{ '/featuring/archive/' | relative_url }})
+{% else %}
+*No features yet.*
+{% endif %}
