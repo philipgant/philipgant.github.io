@@ -1,8 +1,8 @@
-- - -
+---
 layout: default
 title: Featuring
 permalink: /featuring/
-- - -
+---
 
 ## Featuring
 
@@ -14,7 +14,7 @@ Here's something which, encountered recently, innovates and surprises.
 
 {{ current.content }}
 
-- - -
+---
 
 [Browse the archive →]({{ '/featuring/archive/' | relative_url }})
 {% else %}
