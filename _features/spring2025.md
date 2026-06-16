@@ -1,3 +1,9 @@
+---
+title: ""
+date: 2025-06-15
+thumbnail: /images/featuring/fate.png
+---
+
 {% include feature-pair.html
   img1="/images/featuring/fate1.png"
   cap1="Left caption"
