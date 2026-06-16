@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2026-10-01
+date: 2025-10-01
 thumbnail: /images/featuring/pilsa.png
 ---
 {% include feature-pair.html
