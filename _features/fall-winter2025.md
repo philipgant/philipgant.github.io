@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2025-11-01
+date: 2025-11-30
 thumbnail: /images/featuring/gyoeuleunmeolgo.jpeg
 ---
 
