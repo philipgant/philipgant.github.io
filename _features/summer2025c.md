@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2025-08-16
-thumbnail: /images/featuring/images/otohavesuchfleetfeathersandtobob.jpg
+thumbnail: /images/otohavesuchfleetfeathersandtobob.jpg
 ---
 {% include feature-pair.html
   img1="/images/featuring/asquarepool.png"
