@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2025-02-15
+date: 2026-02-15
 thumbnail: /images/featuring/mnemonic.jpeg
 ---
 <figure class="feature-single">
