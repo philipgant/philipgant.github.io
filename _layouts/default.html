@@ -39,7 +39,11 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
          </ul>
          {% endif %}
-         <button class="theme-toggle" type="button" aria-label="Toggle dark mode">☾ Dark mode</button>
+         <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
+  <span class="theme-toggle-sun" aria-hidden="true">☀</span>
+  <span class="theme-toggle-moon" aria-hidden="true">☾</span>
+  <span class="theme-toggle-thumb" aria-hidden="true"></span>
+</button>
       </header>
       <section>
          {{ content }}
