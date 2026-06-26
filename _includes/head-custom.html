@@ -142,39 +142,19 @@
     height: 26px;
     padding: 0;
     margin-top: 1rem;
-    background: transparent;
-    border: 1px solid currentColor;
+    background: rgba(128, 128, 128, 0.15);
+    border: none;
     border-radius: 999px;
     cursor: pointer;
-    opacity: 0.55;
-    transition: opacity 0.15s;
+    opacity: 0.85;
+    transition: opacity 0.15s, background 0.2s;
     vertical-align: middle;
   }
   .theme-toggle:hover {
     opacity: 1;
   }
-  .theme-toggle-sun,
-  .theme-toggle-moon {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 12px;
-    line-height: 1;
-    pointer-events: none;
-    transition: opacity 0.2s;
-  }
-  .theme-toggle-sun {
-    left: 7px;
-  }
-  .theme-toggle-moon {
-    right: 7px;
-    opacity: 0.4;
-  }
-  [data-theme="dark"] .theme-toggle-sun {
-    opacity: 0.4;
-  }
-  [data-theme="dark"] .theme-toggle-moon {
-    opacity: 1;
+  [data-theme="dark"] .theme-toggle {
+    background: rgba(255, 255, 255, 0.12);
   }
   .theme-toggle-thumb {
     position: absolute;
@@ -185,7 +165,7 @@
     height: 18px;
     border-radius: 50%;
     background: currentColor;
-    opacity: 0.18;
+    opacity: 0.35;
     pointer-events: none;
     transition: left 0.2s ease;
   }
