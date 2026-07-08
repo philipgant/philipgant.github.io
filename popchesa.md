@@ -1,3 +1,8 @@
+---
+layout: default
+title: Legal History
+---
+
 ## Legal History
 
 우리가 쓰는 法字는 略字이고  
