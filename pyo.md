@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Teaching
+---
+
 The soul too
 
 is a debasement
