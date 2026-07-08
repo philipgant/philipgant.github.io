@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    .mark { stroke: #3a3a38; }
+    @media (prefers-color-scheme: dark) { .mark { stroke: #f4efe6; } }
+  </style>
+  <g class="mark" fill="none" stroke-width="5.5" stroke-linejoin="round">
+  <path d="M50 16 C71 16 85 31 85 51 C85 72 69 86 50 86 C30 86 15 70 15 50 C15 30 30 16 50 16 Z"/>
+  <path d="M50 29 C65 29 74 39 74 52 C74 66 62 76 49 76 C35 76 27 65 27 51 C27 38 37 29 50 29 Z"/>
+  <path d="M50 43 C58 43 63 48 63 54 C63 61 57 65 49 65 C42 65 38 59 38 53 C38 47 43 43 50 43 Z"/>
+</g>
+</svg>
