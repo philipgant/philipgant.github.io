@@ -1,7 +1,8 @@
-
 ---
 layout: default
 title: Teaching
+---
+
 ---
 
 The soul too
