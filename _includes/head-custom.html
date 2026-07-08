@@ -156,6 +156,22 @@
   [data-theme="dark"] .theme-toggle {
     background: rgba(255, 255, 255, 0.12);
   }
+  .theme-toggle-sun,
+  .theme-toggle-moon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 13px;
+    line-height: 1;
+    font-variant-emoji: text;
+    pointer-events: none;
+    z-index: 1;
+    transition: opacity 0.2s;
+  }
+  .theme-toggle-sun { left: 6px; }
+  .theme-toggle-moon { right: 6px; opacity: 0.4; }
+  [data-theme="dark"] .theme-toggle-sun { opacity: 0.4; }
+  [data-theme="dark"] .theme-toggle-moon { opacity: 1; }
   .theme-toggle-thumb {
     position: absolute;
     top: 50%;
