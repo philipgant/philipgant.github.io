@@ -10,7 +10,7 @@
 <br><br>
 [Digital Asset – Korean Digital Assets Regulatory Framework Explainers – FSC Security Token Q+A Series Tracker](/pdf/1677615857146.pdf)
 <br><br>
-<img src="images/Woori Octo.png?raw=true"/>
+<img src="images/Woori Octo.jpg"/>
 
 ---
 <br><br>
