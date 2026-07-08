@@ -1,3 +1,8 @@
+---
+layout: default
+title: Regulatory Ecosystems Group
+---
+
 ## Regulatory Ecosystems Group
 
 **Building what's missing.**
