@@ -14,7 +14,9 @@
 
 I research how regulation develops. I specialize in how those in misunderstood, yet mission-critical, sectors use procedural and policy mechanisms creatively to forge pathways through government and law -- particularly when none are readily available. I am especially interested in how, throughout that process, trust in complex systems like law and money is built and maintained. 
 
-Trained as a legal historian of East Asia, I did my undergrad at Yale (2010) and my PhD at Harvard (2021), living along the way in Korea, China, and Japan. From 2020-2022, I was a postdoc at Yale, where I designed and taught "Faith in Law in East Asia: Beginnings to 1800." I then established Regulatory Ecosystems Group in order to apprehend and shape regulation in real time. If you too have been trying to map out the fault lines and peer over the horizons, I'd love to meet you. 
+Trained as a legal historian of East Asia, I did my undergrad at Yale (2010) and my PhD at Harvard (2021), living along the way in Korea, China, and Japan. From 2020-2022, I was a postdoc at Yale, where I designed and taught "Faith in Law in East Asia: Beginnings to 1800." I then established Regulatory Ecosystems Group in order to apprehend and shape regulation in real time. From 2024-26, I headed up APAC for a global tech trade association, where I worked with hundreds of innovative enterprises of all shapes and sizes and with policymaking bodies at every level around the globe, and am now working as an independent consultant and advisor in the emerging tech ecosystem. I have been an Associate of the Harvard University Asia Center, grateful for the opportunity to broaden my research into Southeast Asia, since 2023.
+
+If you too have been trying to map out the fault lines and peer over the horizons, I'd love to meet you. 
 
 
 ---
