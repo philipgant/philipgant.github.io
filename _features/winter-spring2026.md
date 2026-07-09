@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2026-04-01
-thumbnail: /images/featuring/eogudumunuijiseok.png
+thumbnail: /images/featuring/eogudumunuijiseok.jpg
 ---
 {% include feature-pair.html
   img1="/images/featuring/legal.jpeg"
