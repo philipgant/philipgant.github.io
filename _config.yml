@@ -14,6 +14,7 @@ plugins:
 - jekyll-remote-theme
 - jekyll-sitemap
 google_analytics: G-KC79S2WK27 # your Google Analytics tracking ID here
+permalink: pretty
 
 collections:
   features:
