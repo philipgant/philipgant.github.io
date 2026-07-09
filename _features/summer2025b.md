@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2025-08-15
-thumbnail: /images/featuring/periodization.png
+thumbnail: /images/featuring/periodization.jpg
 ---
 <figure class="feature-single">
   <img src="/images/featuring/periodization.jpg" alt="View of various periodizations on display across multiple publishers on a bookshop's Histoire de France shelves: 481-888, 888-1180, 1180-1328, 1328-1453, etc, Summer 2025.">
