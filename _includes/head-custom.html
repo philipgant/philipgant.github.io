@@ -198,6 +198,11 @@
       grid-template-columns: repeat(2, 1fr);
     }
   }
+  /* Nested sub-lists shouldn't leave a gap before the next item */
+li > ul,
+li > ol {
+  margin-bottom: 0;
+}
 </style>
 
 <script>
