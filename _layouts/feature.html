@@ -21,9 +21,9 @@ layout: default
     {% endif %}
   {% endfor %}
   <p style="font-size: 0.9em;">
-    {% if prev %}<a href="{{ prev.url | relative_url }}">← Previous feature</a>{% endif %}
+    {% if next %}<a href="{{ next.url | relative_url }}">← Next feature</a>{% endif %}
     {% if prev and next %}&nbsp;·&nbsp;{% endif %}
-    {% if next %}<a href="{{ next.url | relative_url }}">Next feature →</a>{% endif %}
+    {% if prev %}<a href="{{ prev.url | relative_url }}">Previous feature →</a>{% endif %}
   </p>
   <p style="font-size: 0.9em;">
     <a href="{{ '/featuring/' | relative_url }}">Current feature</a>
