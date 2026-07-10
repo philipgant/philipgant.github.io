@@ -8,8 +8,25 @@ layout: default
   {{ content }}
 
   <hr>
+  {% assign sorted = site.features | sort: 'date' %}
+  {% assign prev = nil %}
+  {% assign next = nil %}
+  {% assign found = false %}
+  {% for f in sorted %}
+    {% if found and next == nil %}{% assign next = f %}{% endif %}
+    {% if f.url == page.url %}
+      {% assign found = true %}
+    {% elsif found == false %}
+      {% assign prev = f %}
+    {% endif %}
+  {% endfor %}
   <p style="font-size: 0.9em;">
-    <a href="{{ '/featuring/' | relative_url }}">← Current feature</a>
+    {% if prev %}<a href="{{ prev.url | relative_url }}">← Previous feature</a>{% endif %}
+    {% if prev and next %}&nbsp;·&nbsp;{% endif %}
+    {% if next %}<a href="{{ next.url | relative_url }}">Next feature →</a>{% endif %}
+  </p>
+  <p style="font-size: 0.9em;">
+    <a href="{{ '/featuring/' | relative_url }}">Current feature</a>
     &nbsp;·&nbsp;
     <a href="{{ '/featuring/archive/' | relative_url }}">Archive</a>
   </p>
