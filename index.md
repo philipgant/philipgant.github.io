@@ -1,3 +1,7 @@
+---
+description: "Philip Gant — Regulatory Ecosystems Group and Harvard Asia Center. Researching regulation, law, and technology across the Asia-Pacific."
+---
+
 ## Working On
 
 ---
