@@ -19,7 +19,7 @@ title: Regulatory Ecosystems Group
 
 ---
 <br><br>
-[A First Last Call for "Absurd Regulation"](https://perma.cc/E5KA-BKCM) [Substack republish](https://philipgant.substack.com/p/a-first-last-call-for-absurd-regulation)
+[A First Last Call for "Absurd Regulation"](https://perma.cc/E5KA-BKCM) [(Substack republish)](https://philipgant.substack.com/p/a-first-last-call-for-absurd-regulation)
 <br><br>
 <img src="images/1681970527650.png?raw=true"/>
 
