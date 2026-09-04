@@ -19,7 +19,7 @@ title: Legal History
 
 ---
 <br><br>
-[Make Haste Slowly](https://perma.cc/4ZMC-75UQ)
+[Make Haste Slowly](https://perma.cc/4ZMC-75UQ) [(Substack republish)](https://philipgant.substack.com/p/make-haste-slowly)
 <br><br>
 <img src="images/Jars Banner_Blue.jpg"/>
 
