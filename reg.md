@@ -9,18 +9,18 @@ title: Regulatory Ecosystems Group
 
 [Korean Virtual Assets Legislation](https://www.regulationasia.com/koreas-new-crypto-bill-passes-key-legislative-subcommittee/) 
 <br><br>
-<img src="images/NA Medal.png?raw=true"/>
+<img src="/images/NA Medal.png"/>
 
 ---
 <br><br>
 [Digital Asset – Korean Digital Assets Regulatory Framework Explainers – FSC Security Token Q+A Series Tracker](/pdf/1677615857146.pdf)
 <br><br>
-<img src="images/Woori Octo.jpg"/>
+<img src="/images/Woori Octo.jpg"/>
 
 ---
 <br><br>
 [A First Last Call for "Absurd Regulation"](https://perma.cc/E5KA-BKCM) [(Substack republish)](https://philipgant.substack.com/p/a-first-last-call-for-absurd-regulation)
 <br><br>
-<img src="images/1681970527650.png?raw=true"/>
+<img src="/images/1681970527650.png"/>
 
 ---
