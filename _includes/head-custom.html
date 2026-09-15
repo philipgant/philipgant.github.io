@@ -101,13 +101,6 @@
   [data-theme="dark"] strong {
     color: #f0f0f0;
   }
-  [data-theme="dark"] a,
-  [data-theme="dark"] a:visited {
-    color: #8ab4f8;
-  }
-  [data-theme="dark"] a:hover {
-    color: #a5c9ff;
-  }
   [data-theme="dark"] header h1 a,
   [data-theme="dark"] header h1 a:visited {
     color: #f0f0f0;
@@ -188,7 +181,36 @@
   [data-theme="dark"] .theme-toggle-thumb {
     left: calc(100% - 21px);
   }
-
+  /* Monochrome links — underline carries the affordance */
+  a,
+  a:visited {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-thickness: 1px;
+    text-decoration-color: rgba(26, 26, 26, 0.35);
+    transition: text-decoration-color 0.15s;
+  }
+  a:hover {
+    color: #000;
+    text-decoration-color: rgba(26, 26, 26, 0.9);
+  }
+  [data-theme="dark"] a,
+  [data-theme="dark"] a:visited {
+    color: #e8e6e3;
+    text-decoration-color: rgba(232, 230, 227, 0.35);
+  }
+  [data-theme="dark"] a:hover {
+    color: #fff;
+    text-decoration-color: rgba(232, 230, 227, 0.9);
+  }
+  /* Header title and archive thumbnails stay undecorated */
+  header h1 a,
+  header h1 a:visited,
+  .archive-grid a,
+  .archive-grid a:visited {
+    text-decoration: none;
+  }
   /* Stack to 2 columns on narrow screens */
   @media (max-width: 600px) {
     .feature-pair {
