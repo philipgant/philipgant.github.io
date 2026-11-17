@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2026-09-15
+date: 2026-08-30
 thumbnail: /images/featuring/gamjyeo.jpg
 ---
 <figure class="feature-single">
