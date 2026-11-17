@@ -5,5 +5,5 @@ thumbnail: /images/featuring/courtpros.jpg
 ---
 <figure class="feature-single">
   <img src="/images/featuring/courtpros.jpg" alt="Court-Pros'; Fall 2026">
-  <figcaption>Fall 2026.</figcaption>
+  <figcaption>Fall 2026 (Google Maps 2019).</figcaption>
 </figure>
